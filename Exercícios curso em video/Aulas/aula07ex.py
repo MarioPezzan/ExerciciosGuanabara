@@ -1,0 +1,10 @@
+n1 = int(input('Digite um valor: '))
+n2 = int(input('Digite outro valor: '))
+s = n1+n2
+m = n1 * n2
+d = n1 / n2
+e = n1 ** n2
+print(f'O resultado da multiplicação: {m:-<10}', end='> ')
+print(f'O resultado da divisão: {d:-<10.0f}', end='> ')
+print(f'Resultado do número elevado: {e:-<10}', end='> ')
+print(f'Sua soma: {s:-<10}', end='| ')

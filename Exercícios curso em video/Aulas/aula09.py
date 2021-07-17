@@ -1,0 +1,5 @@
+frase = input('Curso em Video Python: ')
+q = frase.count('o')
+f = frase.find('o')
+l = len(frase)
+print(q, l, f)

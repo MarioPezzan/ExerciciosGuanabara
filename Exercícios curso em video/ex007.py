@@ -1,0 +1,5 @@
+al1 = float(input('Nota do aluno no primerio bimestre: '))
+al2 = float(input('Nota do aluno no segundo bimestre: '))
+al3 = float(input('Nota do aluno no terceiro bimestre: '))
+al4 = float(input('Nota do aluno no terceiro bimestre: '))
+print(f'Media do aluno: {(al1+al2+al3+al4)/4:.1f}')
