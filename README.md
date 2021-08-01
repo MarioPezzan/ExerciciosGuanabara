@@ -1,2 +1,2 @@
 # ExerciciosGuanabara
-Exercícios do curso em vídeo professor Guanabara 
+Exercícios do curso em vídeo professor Guanabara VS Code
